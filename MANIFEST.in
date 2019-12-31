@@ -1,0 +1,3 @@
+recursive-include mynewapp/static *
+recursive-include mynewapp/assets *
+recursive-include mynewapp/templates *
